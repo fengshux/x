@@ -1,11 +1,19 @@
 {
   "name": "x",
   "version": "1.0.0",
-  "description": "slight speed node web freame work",
+  "description": "lightly speed node web frame work",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuxiaoyu2010/x.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuxiaoyu2010/x/issues"
+  },
+  "homepage": "https://github.com/xuxiaoyu2010/x#readme"
 }
